@@ -11,7 +11,7 @@ It ustilizes an STM32G0B1 MCU over usb-c to operate. Making it a single cable ad
 
 TNP utilizes two hall effect sensors to dectect movement of the buffer before hitting a hard stop in either direction. Adiddtionally on the PCB are 5 endstops ports that can be utilized for filament combiners or "hubs".
 The purpose of a toolhead buffer such as TNP is to compensate for mismatched rotation distances between a toolheads extruder and a direct drive AFC ("type 2 MMU" if you like calling them that...)
-TN2 uses JST-PH connectors for all of its expansion.
+TN2.0 MCU uses JST-PH connectors for all of its expansion.
 
 [Build manual HERE](https://armoredturtle.xyz).
 
