@@ -1,16 +1,16 @@
-# TurtleNeck2.0
+# TN Pro V2.0
 ![TN2_Render](https://github.com/user-attachments/assets/04dee60e-6889-46bf-8f6b-388c52244336)
-TurtleNeck 2.0 - The smart toolhead buffer.
+TurtleNeck Pro - The smart toolhead buffer.
 
 AT Discord:
 
 [![Join me on Discord](https://discord.com/api/guilds/1229586267671629945/widget.png?style=banner2)](https://discord.gg/armoredturtle)
 
-TurtleNeck 2.0 (TN2) Is a toolhead buffer for klipper printers designed to work with the [AFC Klipper Add-on](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On).
+TurtleNeck Pro (TNP) Is a toolhead buffer for klipper printers designed to work with the [AFC Klipper Add-on](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On).
 It ustilizes an STM32G0B1 MCU over usb-c to operate. Making it a single cable addition to your klipper machine.
 
-TN2 utilizes two hall effect sensors to dectect movement of the buffer before hitting a hard stop in either direction. Adiddtionally on the PCB are 5 endstops ports that can be utilized for filament combiners or "hubs".
-The purpose of a toolhead buffer such as TN2 is to compensate for mismatched rotation distances between a toolheads extruder and a direct drive AFC ("type 2 MMU" if you like calling them that...)
+TNP utilizes two hall effect sensors to dectect movement of the buffer before hitting a hard stop in either direction. Adiddtionally on the PCB are 5 endstops ports that can be utilized for filament combiners or "hubs".
+The purpose of a toolhead buffer such as TNP is to compensate for mismatched rotation distances between a toolheads extruder and a direct drive AFC ("type 2 MMU" if you like calling them that...)
 TN2 uses JST-PH connectors for all of its expansion.
 
 [Build manual HERE](https://armoredturtle.xyz).
@@ -18,7 +18,7 @@ TN2 uses JST-PH connectors for all of its expansion.
 #BOM#
 | Part  | QTY |
 | ------------- | ------------- |
-| TN2 PCB | 1  |
+| TN2.0 PCB | 1  |
 | 3x2mm magnet  | 1  |
 | M2.5x10 FHCS  | 1  |
 | ECAS04 bowden collet | 2  |
