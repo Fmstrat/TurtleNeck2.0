@@ -1,3 +1,4 @@
+# This is a legacy project - you do NOT need it -
 # TN Pro V2.0
 ![TN2_Render](https://github.com/user-attachments/assets/04dee60e-6889-46bf-8f6b-388c52244336)
 TurtleNeck Pro - The smart toolhead buffer.
